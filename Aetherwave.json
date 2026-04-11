@@ -17,6 +17,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/FrostQueenMaya/Aetherwave/releases/download/Stable/Aetherwave.zip",
     "DownloadLinkUpdate": "https://github.com/FrostQueenMaya/Aetherwave/releases/download/Stable/Aetherwave.zip",
+    "DownloadLinkTesting": "https://github.com/FrostQueenMaya/Aetherwave/releases/download/Stable/Aetherwave.zip",
     "AcceptsFeedback": true,
     "Tags": [
       "audio",
