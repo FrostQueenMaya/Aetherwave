@@ -1,6 +1,6 @@
 # Aetherwave Proximity Audio
 
-<img src="https://raw.githubusercontent.com/FrostQueenMaya/Aetherwave/refs/heads/main/Aetherwave-2.png" alt="Description" width="200" height="100">
+<img src="https://raw.githubusercontent.com/FrostQueenMaya/Aetherwave/refs/heads/main/Aetherwave-2.png" alt="Description" width="512" height="512">
 
 Audio broadcasting and recieving for FFXIV. Created by FrostQueenMaya, Sef's Intrusive Thoughts, Stankfang.
 
