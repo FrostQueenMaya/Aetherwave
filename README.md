@@ -6,7 +6,6 @@ Repo Link: https://raw.githubusercontent.com/FrostQueenMaya/Aetherwave/refs/head
 
 ## Player & Broadcast
 
-
 ### Global Stream Settings
 
 Stream URL (Twitch/Soma) - Supports twitch.tv URLs and .mp3 or .m3u8 format
@@ -28,13 +27,11 @@ Start Broadcasting - Creates a new entry in the Nearby Streams tab and starts br
 
 While broadcasting, the broadcasting user will -not- hear the broadcasted stream, this is the intended design.
 
-
 ## Nearby Streams
 
 This tab shows a list of active stream broadcasts in the current zone as well as the total number of active broadcasts in the current zone.  Users may use Tune In buttons for an available broadcast -- tuning in will disable proximity audio while tuned in to a specific 'station' and prevent distance from the source of the Tuned-In broadcast from affecting volume.  
 
 The character name of the broadcasting character will display beneath their respective Tune In button.  
-
 
 ## Configuration
 
