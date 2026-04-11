@@ -1,7 +1,7 @@
 [
   {
     "Author": "Aeherwave Team",
-    "Name": 'Aetherwave (v1.0.0)',
+    "Name": "Aetherwave (v1.0.0)",
     "InternalName": "Aetherwave",
     "AssemblyVersion": "1.0.0.1",
     "Description": "FFXIV Audio Broadcast Plugin",
