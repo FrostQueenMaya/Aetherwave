@@ -1,6 +1,6 @@
 # Aetherwave Proximity Audio
 
-Audio broadcasting and recieving for FFXIV. Created by Alys Gugoza*Goblin(FrostQueenMaya), Sefara Altair*Goblin, and Malodorous Fang*Goblin(stankfang).
+Audio broadcasting and recieving for FFXIV. Created by FrostQueenMaya, , stankfang.
 
 Repo Link: https://raw.githubusercontent.com/FrostQueenMaya/Aetherwave/refs/heads/main/Aetherwave.json	
 
