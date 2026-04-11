@@ -1,6 +1,6 @@
 # Aetherwave Proximity Audio
 
-Audio broadcasting and recieving for FFXIV. Created by FrostQueenMaya, , stankfang.
+Audio broadcasting and recieving for FFXIV. Created by FrostQueenMaya, Sef's Intrusive Thoughts, stankfang.
 
 Repo Link: https://raw.githubusercontent.com/FrostQueenMaya/Aetherwave/refs/heads/main/Aetherwave.json	
 
