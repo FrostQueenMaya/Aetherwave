@@ -10,6 +10,7 @@
     "DalamudApiLevel": 14,
     "LoadRequiredState": 0,
     "LoadSync": false,
+    "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Audio broadcasting for FFXIV.",
     "IsHide": false,
