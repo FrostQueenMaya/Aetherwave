@@ -9,6 +9,7 @@ Repo Link: https://raw.githubusercontent.com/FrostQueenMaya/Aetherwave/refs/head
 ### Global Stream Settings
 
 Stream URL (Twitch/Soma) - Supports twitch.tv URLs and .mp3 or .m3u8 format
+
 Station Name - Applicable only to Broadcasting mode.  Displays as the name of your 'station' above your character.
 
 ### Local Playback
