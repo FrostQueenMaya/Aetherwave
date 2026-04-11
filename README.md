@@ -1,5 +1,7 @@
 # Aetherwave Proximity Audio
 
+![Alt Text](https://raw.githubusercontent.com/FrostQueenMaya/Aetherwave/refs/heads/main/Aetherwave-2.png)
+
 Audio broadcasting and recieving for FFXIV. Created by FrostQueenMaya, Sef's Intrusive Thoughts, Stankfang.
 
 Repo Link: https://raw.githubusercontent.com/FrostQueenMaya/Aetherwave/refs/heads/main/Aetherwave.json	
