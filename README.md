@@ -4,6 +4,8 @@
 
 Audio broadcasting and recieving for FFXIV. Created by FrostQueenMaya, Sef's Intrusive Thoughts, Stankfang.
 
+We highly recommend you use Aetherwave with [Twitch XIV](https://github.com/Aida-Enna/TwitchXIV) for a complete experience!
+
 Repo Link: https://raw.githubusercontent.com/FrostQueenMaya/Aetherwave/refs/heads/main/Aetherwave.json	
 
 ## Player & Broadcast
