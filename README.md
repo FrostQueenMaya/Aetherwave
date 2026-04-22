@@ -4,7 +4,9 @@
 
 Audio broadcasting and recieving for FFXIV. Created by FrostQueenMaya, Sef's Intrusive Thoughts, Stankfang.
 
-We highly recommend you use Aetherwave with [Twitch XIV](https://github.com/Aida-Enna/TwitchXIV) for a complete experience! (We are not affilliated with Twitch XIV in any way)
+The Aetherwave Team officially recommends using XIV Rolladeck alongside Aetherwave. Its a directory of all the DJs who are live and the venues that are open. Check it out here: https://xivrolladeck.com/
+
+We also highly recommend you use Aetherwave with [Twitch XIV](https://github.com/Aida-Enna/TwitchXIV) for a complete experience! (We are not affilliated with Twitch XIV in any way)
 
 ----------------------------------
 The program that fetches the stream is called Streamlink; it is supported by Twitch and counts the end listener (anyone who can hear the broadcast) as a view for Twitch's purposes.  This status lasts for 20-30 minutes after joining the stream (or receiving its audio via proximity) and can be effectively refreshed by using the Twitch XIV plugin to interact with Twitch chat from in-game to create engagement that way.  Since Streamlink uses your existing Twitch credentials automatically and Twitch XIV uses OAuth to chat with those credentials, engaging in Twitch chat from in-game will prevent the AFK status that removes the viewer.
