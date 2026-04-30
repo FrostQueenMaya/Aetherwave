@@ -1,9 +1,9 @@
 [
   {
     "Author": "Aetherwave Team",
-    "Name": "Aetherwave (v1.0.0)",
+    "Name": "Aetherwave (v1.1.0)",
     "InternalName": "Aetherwave",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.1.0.1",
     "Description": "FFXIV Audio Broadcast Plugin",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/FrostQueenMaya/Aetherwave",
@@ -15,9 +15,9 @@
     "Punchline": "Audio broadcasting for FFXIV.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/FrostQueenMaya/Aetherwave/releases/download/Stable/Aetherwave.zip",
-    "DownloadLinkUpdate": "https://github.com/FrostQueenMaya/Aetherwave/releases/download/Stable/Aetherwave.zip",
-    "DownloadLinkTesting": "https://github.com/FrostQueenMaya/Aetherwave/releases/download/Stable/Aetherwave.zip",
+    "DownloadLinkInstall": "https://github.com/FrostQueenMaya/Aetherwave/releases/download/1.1.0/Aetherwave.zip",
+    "DownloadLinkUpdate": "https://github.com/FrostQueenMaya/Aetherwave/releases/download/1.1.0/Aetherwave.zip",
+    "DownloadLinkTesting": "https://github.com/FrostQueenMaya/Aetherwave/releases/download/1.1.0/Aetherwave.zip",
     "AcceptsFeedback": true,
     "Tags": [
       "audio",
